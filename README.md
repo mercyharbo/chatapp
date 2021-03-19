@@ -18,7 +18,7 @@
 
 # What I learned
 
-- I was able to learn how to do graphic with CSS for the first and it was fun, interesting & not as bad as I thought because I was able to be creative enough to thin outaide the box in every step of this challenge.
+- I was able to learn how to do graphic with CSS for the first and it was fun, interesting & not as bad as I thought because I was able to be creative enough to think outaide the box in every step of this challenge.
 
 # Continued development
 
