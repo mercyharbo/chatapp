@@ -1,4 +1,4 @@
-# chatapp
+# Chat app CSS illustration
 
 ![image](https://user-images.githubusercontent.com/64808015/111731876-ae7ddc80-8874-11eb-8689-0d00722dea4b.png)
 
